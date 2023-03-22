@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../workspace"
+		},
+		{
+			"name": "python-extensions-static-site-generator",
+			"path": "../../python-extensions-static-site-generator"
+		},
+		{
+			"name": "python-collections-budget",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
