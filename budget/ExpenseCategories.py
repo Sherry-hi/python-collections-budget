@@ -14,7 +14,7 @@ def main():
         if not (a.issubset(b) and b.issubset(a)):
             print('Sets are NOT equal by subset test')
     
-    print(timeit.timeit(stmp="expenses.categorize_for_loop()", 
+    print(timeit.timeit(stmt="expenses.categorize_for_loop()", 
                   setup=
                   ''' 
                   from . import Expense
